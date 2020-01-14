@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kk.com/images/6.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kk.com/images/img_9915_2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -57,7 +54,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kk.com/images/6.jpg</image:loc>
+      <image:loc>http://kk.com/images/2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/7300x200.jpg</image:loc>
@@ -72,46 +69,43 @@
       <image:loc>http://kk.com/images/1300x451.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/10-crop-u4769.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kk.com/images/1-crop-u4869.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kk.com/images/2-crop-u4889.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/3-crop-u4909.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kk.com/images/4-crop-u4929.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/5-crop-u4949.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/6-crop-u4969.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/7-crop-u4989.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/8-crop-u5009.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/9-crop-u5029.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/12-crop-u5049.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kk.com/images/13-crop-u5069.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/10300x200.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kk.com/images/12300x200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/5846x564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/6846x564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kk.com/images/13.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -131,6 +125,9 @@
     <lastmod>2020-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kk.com/images/2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://kk.com/eclipse.html</loc>

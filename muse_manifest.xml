@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kk.com" resolutions="1x" timestamp="1578999717927">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kk.com" resolutions="1x" timestamp="1579012369336">
   <folder name="assets">
     <file name="006練習.mp4" crc="254850909" seo="true" mt="1570374971000"/>
     <file name="0hush-hush.mp4" crc="4087337967" seo="true" mt="1578221034000"/>
@@ -7,17 +7,17 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="photography.css" crc="3861742796" ref="photography"/>
+    <file name="photography.css" crc="57417132" ref="photography"/>
     <file name="eclipse.css" crc="185694338" ref="eclipse"/>
     <file name="animation.css" crc="236172207" ref="animation"/>
-    <file name="index.css" crc="3861185699" ref="index"/>
-    <file name="contact.css" crc="4082508530" ref="contact"/>
-    <file name="freedom.css" crc="4265865382" ref="freedom"/>
-    <file name="city.css" crc="291335972" ref="city"/>
-    <file name="street.css" crc="3831191537" ref="street"/>
-    <file name="hush.css" crc="505201538" ref="hush"/>
-    <file name="snail.css" crc="4186788892" ref="snail"/>
-    <file name="shadow-show.css" crc="3824749889" ref="shadow-show"/>
+    <file name="index.css" crc="425388729" ref="index"/>
+    <file name="contact.css" crc="147418709" ref="contact"/>
+    <file name="freedom.css" crc="3911953817" ref="freedom"/>
+    <file name="city.css" crc="4194824147" ref="city"/>
+    <file name="street.css" crc="4149245773" ref="street"/>
+    <file name="hush.css" crc="4211399157" ref="hush"/>
+    <file name="snail.css" crc="163693580" ref="snail"/>
+    <file name="shadow-show.css" crc="29181558" ref="shadow-show"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:eclipse:animation:contact:freedom:city:street:hush:snail:shadow-show"/>
@@ -35,7 +35,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:freedom:city:street"/>
-    <file name="6.jpg" crc="4119246815" ref="index:freedom" seo="true">
+    <file name="6.jpg" crc="4106498999" ref="index:freedom">
       <caption webpage="index" alt=""/>
       <caption webpage="freedom" alt=""/>
     </file>
@@ -43,7 +43,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="eclipse" alt=""/>
     </file>
-    <file name="img_6411-2.jpg" crc="307508351" seo="true" ref="index">
+    <file name="img_6411-2.jpg" crc="4077399363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:freedom:city:street"/>
@@ -71,10 +71,10 @@
     <file name="5.jpg" crc="4220885215" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="2.jpg" crc="4246443403" ref="photography">
+    <file name="2.jpg" crc="4246443403" ref="photography:freedom" seo="true">
+      <caption webpage="city" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="freedom" alt=""/>
-      <caption webpage="city" alt=""/>
     </file>
     <file name="04.jpg" crc="4216259488" seo="true" ref="eclipse">
       <caption webpage="eclipse" alt=""/>
@@ -258,7 +258,7 @@
     <file name="022.jpg" crc="197593999" seo="true" ref="street">
       <caption webpage="street" alt=""/>
     </file>
-    <file name="img_6411-2394x263.jpg" crc="3903591837" seo="true" ref="index">
+    <file name="img_6411-2394x263.jpg" crc="195407695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="aaa4394x222.jpg" crc="3885347974" seo="true" ref="index">
@@ -267,7 +267,7 @@
     <file name="line_154193398601899.jpg" crc="4226216171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="line_154188044206953.jpg" crc="4101123388" ref="shadow-show">
+    <file name="line_154188044206953.jpg" crc="4281740865" ref="shadow-show">
       <caption webpage="shadow-show" alt=""/>
     </file>
     <file name="u4427-4.png" crc="270627666" ref="shadow-show"/>
@@ -290,40 +290,10 @@
     <file name="1300x451.jpg" crc="83377574" seo="true" ref="freedom">
       <caption webpage="freedom" alt=""/>
     </file>
-    <file name="10-crop-u4769.jpg" crc="3933088008" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
     <file name="1-crop-u4869.jpg" crc="442410313" seo="true" ref="freedom">
       <caption webpage="freedom" alt=""/>
     </file>
-    <file name="2-crop-u4889.jpg" crc="4080505560" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="3-crop-u4909.jpg" crc="466877257" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="4-crop-u4929.jpg" crc="3924643812" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="5-crop-u4949.jpg" crc="276198950" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="6-crop-u4969.jpg" crc="166862244" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="7-crop-u4989.jpg" crc="3861440800" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="8-crop-u5009.jpg" crc="446616016" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="9-crop-u5029.jpg" crc="3871869229" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="12-crop-u5049.jpg" crc="403292908" seo="true" ref="freedom">
-      <caption webpage="freedom" alt=""/>
-    </file>
-    <file name="13-crop-u5069.jpg" crc="470637613" seo="true" ref="freedom">
+    <file name="4-crop-u4929.jpg" crc="396909685" seo="true" ref="freedom">
       <caption webpage="freedom" alt=""/>
     </file>
     <file name="u4739-4.png" crc="25755498" ref="freedom"/>
@@ -379,16 +349,43 @@
     <file name="001海報300x423.jpg" crc="3859561549" seo="true" ref="snail">
       <caption webpage="snail" alt=""/>
     </file>
+    <file name="10.jpg" crc="3900343439" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4133075072" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="5846x564.jpg" crc="3819437034" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="6846x564.jpg" crc="272657149" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="7.jpg" crc="46295555" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3813526417" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3815515233" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="12.jpg" crc="329779913" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4019851652" seo="true" ref="freedom">
+      <caption webpage="freedom" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="364338954" seo="true" mt="1578999710830" redirect="true"/>
-  <file name="photography.html" crc="41072695" seo="true" mt="1578994582370" redirect="true"/>
+  <file name="index.html" crc="383042983" seo="true" mt="1579011671217" redirect="true"/>
+  <file name="photography.html" crc="61509622" seo="true" mt="1579011829340" redirect="true"/>
   <file name="eclipse.html" crc="3771355074" seo="true" mt="1578997965598" redirect="true"/>
   <file name="animation.html" crc="3899955097" seo="true" mt="1578999317944" redirect="true"/>
-  <file name="contact.html" crc="4146252546" seo="true" mt="1578996086406" redirect="true"/>
-  <file name="freedom.html" crc="461521717" seo="true" mt="1578994867002" redirect="true"/>
-  <file name="city.html" crc="167726008" seo="true" mt="1578994886951" redirect="true"/>
-  <file name="street.html" crc="296588924" seo="true" mt="1578994842928" redirect="true"/>
-  <file name="hush.html" crc="4031892331" seo="true" mt="1578999077780" redirect="true"/>
-  <file name="snail.html" crc="172106010" seo="true" mt="1578999490625" redirect="true"/>
-  <file name="shadow-show.html" crc="3887098369" seo="true" mt="1578999304052" redirect="true"/>
+  <file name="contact.html" crc="69983734" seo="true" mt="1579012342072" redirect="true"/>
+  <file name="freedom.html" crc="3895962567" seo="true" mt="1579012364120" redirect="true"/>
+  <file name="city.html" crc="3982376879" seo="true" mt="1579012106809" redirect="true"/>
+  <file name="street.html" crc="529631632" seo="true" mt="1579012077909" redirect="true"/>
+  <file name="hush.html" crc="451593171" seo="true" mt="1579012232534" redirect="true"/>
+  <file name="snail.html" crc="3839174019" seo="true" mt="1579012291422" redirect="true"/>
+  <file name="shadow-show.html" crc="237871864" seo="true" mt="1579012365312" redirect="true"/>
 </manifest>
